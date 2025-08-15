@@ -1,1 +1,3 @@
+UCLan Student's Union Shop
+
 I developed a responsive web application for the University of Central Lancashire (UCLan) Student Union Shop as a freelance project. The application was built using simple HTML, CSS, and JavaScript, focusing on a clean, user-friendly interface that adapts seamlessly to different devices. It included essential shop functionalities such as product display, category navigation, and interactive elements for an engaging browsing experience. The design ensured accessibility, mobile compatibility, and straightforward navigation for students and staff. While the project was not hosted online, it served as a functional prototype for internal demonstration and future deployment.
